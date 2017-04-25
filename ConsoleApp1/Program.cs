@@ -10,10 +10,11 @@ namespace ConsoleApp1
 
     class Program
     {
+        public static object LC_ALL { get; private set; }
 
         static void Main(string[] args)
         {
-
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
             var time = DateTime.Now;
 
             //using (DiplomContext db = new DiplomContext())

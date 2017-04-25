@@ -17,8 +17,10 @@ namespace ConsoleApp1
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-            optionsBuilder.UseSqlServer(@"Server=(local);Database=Diplom;Trusted_Connection=True;");
+            // #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
+           
+            optionsBuilder.UseSqlServer(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=\\Mac\Home\Desktop\Diplom\Diplom\Diplom.mdf;Integrated Security=True;Connect Timeout=30");
+            
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

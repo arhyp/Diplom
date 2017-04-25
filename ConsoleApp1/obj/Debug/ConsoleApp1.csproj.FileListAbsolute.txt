@@ -1,59 +1,180 @@
-c:\users\arkhyp\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-c:\users\arkhyp\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-c:\users\arkhyp\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-c:\users\arkhyp\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
-c:\users\arkhyp\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-c:\users\arkhyp\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Remotion.Linq.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\System.Collections.Immutable.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\System.Interactive.Async.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.dll
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Remotion.Linq.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\System.Collections.Immutable.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\System.Interactive.Async.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\Arkhyp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.xml
+c:/users/arkhyp/documents/visual studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/ConsoleApp1.exe.config
+c:/users/arkhyp/documents/visual studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/ConsoleApp1.exe
+c:/users/arkhyp/documents/visual studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/ConsoleApp1.pdb
+c:/users/arkhyp/documents/visual studio 2017/Projects/ConsoleApp1/ConsoleApp1/obj/Debug/ConsoleApp1.csprojResolveAssemblyReference.cache
+c:/users/arkhyp/documents/visual studio 2017/Projects/ConsoleApp1/ConsoleApp1/obj/Debug/ConsoleApp1.exe
+c:/users/arkhyp/documents/visual studio 2017/Projects/ConsoleApp1/ConsoleApp1/obj/Debug/ConsoleApp1.pdb
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.AspNetCore.Http.Abstractions.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.AspNetCore.Http.Features.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.Logging.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.Options.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.Primitives.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Remotion.Linq.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/System.Collections.Immutable.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/System.Interactive.Async.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/System.Text.Encodings.Web.dll
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.AspNetCore.Http.Abstractions.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.AspNetCore.Http.Features.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.Design.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.Relational.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.SqlServer.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.Caching.Abstractions.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.Caching.Memory.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.Configuration.Abstractions.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.DependencyInjection.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.FileProviders.Abstractions.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.Logging.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.Logging.Abstractions.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.Options.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Microsoft.Extensions.Primitives.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/Remotion.Linq.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/System.Collections.Immutable.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/System.Diagnostics.DiagnosticSource.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/System.Interactive.Async.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+C:/Users/Arkhyp/Documents/Visual Studio 2017/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/System.Text.Encodings.Web.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/ConsoleApp1.exe.config
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/ConsoleApp1.exe
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/ConsoleApp1.pdb
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.AspNetCore.Http.Features.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.Design.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.Caching.Memory.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.DependencyInjection.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.Logging.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.Options.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.Primitives.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Remotion.Linq.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/System.Collections.Immutable.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/System.Diagnostics.DiagnosticSource.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/System.Interactive.Async.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/System.Text.Encodings.Web.dll
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.AspNetCore.Hosting.Abstractions.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.AspNetCore.Http.Abstractions.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.AspNetCore.Http.Features.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.Design.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.Relational.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.Relational.Design.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.SqlServer.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.Caching.Abstractions.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.Caching.Memory.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.Configuration.Abstractions.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.DependencyInjection.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.FileProviders.Abstractions.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.Logging.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.Logging.Abstractions.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.Options.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Microsoft.Extensions.Primitives.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/Remotion.Linq.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/System.Collections.Immutable.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/System.Diagnostics.DiagnosticSource.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/System.Interactive.Async.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/bin/Debug/System.Text.Encodings.Web.xml
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/obj/Debug/ConsoleApp1.csprojResolveAssemblyReference.cache
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/obj/Debug/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/obj/Debug/ConsoleApp1.exe
+/Users/arhip/Desktop/Diplom/Diplom/ConsoleApp1/obj/Debug/ConsoleApp1.pdb
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Remotion.Linq.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\System.Interactive.Async.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.dll
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.Options.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Remotion.Linq.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\System.Collections.Immutable.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\System.Interactive.Async.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\System.Text.Encodings.Web.xml
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Diplom.mdf
+\\Mac\Home\Desktop\Diplom\Diplom\ConsoleApp1\bin\Debug\Diplom_log.ldf

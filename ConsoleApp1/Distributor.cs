@@ -13,6 +13,7 @@ namespace ConsoleApp1
         Speciality[] specialities;
         Dictionary<Speciality, List<Enrollee>> dict;
         public int variants = 5;
+        private int p;
 
         public Distributor(Enrollee[] _enrollees, Speciality[] _specialities)
         {
@@ -80,9 +81,55 @@ namespace ConsoleApp1
                 }
 
             }
+            int cc = 0;
+            for (int r = 0; r<flags.Length; r++)
+            {
+                if (flags[r] == false)
+                {
+                    cc++;
+                }
+            }
+            Console.WriteLine($" free student: {cc}");
+            //распределить остольных
+            List<Enrollee> freeEnrollers = new List<Enrollee>();
+            
+            for (int p = 0; p < flags.Length; p++)
+            {
+                if (flags[p] == false)
+                {
+                    freeEnrollers.Add(enrollees[p]);
+                }
+            }
+            freeEnrollers.Sort((x, y) => x.Zno.CompareTo(y.Zno));
+
+            foreach ( Enrollee enr in freeEnrollers.ToArray())
+            {
+                Request[] req = enr.Request.ToArray();
+                Array.Sort(req, (x, y) => x.Priority.CompareTo(y.Priority));
+                foreach (Request _req in req)
+                {
+                    Speciality spec = _req.IdSpecialityNavigation;
+                    
+                    Rules rule = spec.Rules.First();
+                    int palces = rule.Count;
+                    bool enoughScore = (rule.Score < enr.Zno) ? true : false;
+
+                    if (enoughScore == true && dict[spec].Count < rule.Count)
+                    {
+                        dict[spec].Add(enr);
+                        int indexOfStud = Array.IndexOf(enrollees, enr);
+                        flags[indexOfStud] = true;
+
+                    }
+
+                }
+            }
+            //end
+
+
             foreach (KeyValuePair<Speciality, List<Enrollee>> entry in dict)
             {
-                Console.WriteLine($"University: {entry.Key.IdDepartmentNavigation.IdUniversityNavigation.Name}\n\tSpeciality: ${entry.Key.Name}");
+                Console.WriteLine($"University: {entry.Key.IdDepartmentNavigation.IdUniversityNavigation.Name}\n\tSpeciality: {entry.Key.Name}");
                 Console.WriteLine($"Rules: count = {entry.Key.Rules.First().Count}, students = {entry.Value.Count}");
                 foreach (Enrollee stud in entry.Value.ToArray())
                 {
@@ -91,13 +138,17 @@ namespace ConsoleApp1
                 Console.WriteLine();
             }
             Console.WriteLine("Free studets: ");
+            int allFreeStud = 0;
             for (int p = 0; p < flags.Length;  p++)
             {
                 if (flags[p] == false)
                 {
+                    allFreeStud++;
                     Console.WriteLine($"Name: {enrollees[p].Name}, ZNO: {enrollees[p].Zno}");
                 }
+
             }
+            Console.WriteLine($"Free studets count: {allFreeStud} ");
         }
 
     }
